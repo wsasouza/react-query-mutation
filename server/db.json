@@ -1,0 +1,53 @@
+{
+  "products": [
+     {
+      "id": 0,
+      "name": "Expresso Tradicional",
+      "price": "R$ 9,90",
+      "description": "O tradicional café feito com água quente e grãos moídos.",
+      "image": "https://i.ibb.co/tbJj98t/coffee01.png"
+    },
+    {
+      "id": 1,
+      "name": "Expresso Americano",
+      "price": "R$ 10,90",
+      "description": "Expresso diluído, menos intenso que o tradicional.",
+      "image": "https://i.ibb.co/vVc5tsp/coffee02.png"
+    },
+    {
+      "id": 2,
+      "name": "Expresso Cremoso",
+      "price": "R$ 9,90",
+      "description": "Café expresso tradicional com espuma cremosa.",
+      "image": "https://i.ibb.co/mRNxmJ5/coffee03.png"
+    },
+    {
+      "id": 3,
+      "name": "Expresso Gelado",
+      "price": "R$ 9,90",
+      "description": "Bebida preparada com café expresso e cubos de gelo.",
+      "image": "https://i.ibb.co/yhv28L0/coffee04.png"
+    },
+    {
+      "id": 4,
+      "name": "Café com Leite",
+      "price": "R$ 10,90",
+      "description": "Meio a meio de expresso tradicional com leite vaporizado.",
+      "image": "https://i.ibb.co/RHSJqtN/coffee05.png"
+    },
+    {
+      "id": 5,
+      "name": "Latte",
+      "price": "R$ 10,90",
+      "description": "Uma dose de café expresso com o dobro de leite e espuma cremosa.",
+      "image": "https://i.ibb.co/KDNWHCv/coffee06.png"
+    },
+    {
+      "id": 6,
+      "name": "Capuccino",
+      "price": "R$ 11,90",
+      "description": "Bebida com canela feita de doses iguais de café, leite e espuma.",
+      "image": "https://i.ibb.co/HHcVyMZ/coffee07.png"
+    }   
+  ]
+}
