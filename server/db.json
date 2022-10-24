@@ -1,6 +1,6 @@
 {
   "products": [
-     {
+    {
       "id": 0,
       "name": "Expresso Tradicional",
       "price": "R$ 9,90",
@@ -48,6 +48,13 @@
       "price": "R$ 11,90",
       "description": "Bebida com canela feita de doses iguais de café, leite e espuma.",
       "image": "https://i.ibb.co/HHcVyMZ/coffee07.png"
-    }   
+    },
+    {
+      "name": "Macchiato",
+      "price": "R$ 12,90",
+      "description": "Café expresso misturado com um pouco de leite quente e espuma.",
+      "image": "https://i.ibb.co/P5vyLh4/coffee08.png",
+      "id": 7
+    }
   ]
 }
